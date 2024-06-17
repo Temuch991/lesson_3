@@ -1,0 +1,21 @@
+div{
+   color: rgb(202, 22, 22);
+}
+p{
+   color: crimson;
+}
+p{
+   color: rgb(34, 151, 19);
+}
+div.text{
+   color: rgb(255, 15, 163);
+}
+ol{
+   color: darkblue;
+}
+footer.home{
+   color: blue;
+}
+ol.li{
+   color: darkmagenta;
+}
